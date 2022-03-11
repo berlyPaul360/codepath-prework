@@ -1,0 +1,56 @@
+body{
+  font-family: helvetica,arial,sans-serif;
+  margin:2em;
+  background-color: slategrey;
+  color:white;
+}
+
+/* The Title Styling ===> LIGHT AND SOUND MEM GAME */
+h1{
+  font-family: verdana,arial,sans-serif;
+}
+/* ALL BUTTONS STYLING */
+button{
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* GAME BUTTONS STYLING */
+#gameBtn_area > button{
+  width: 200px;
+  height:200px;
+  margin:2px;
+}
+
+/* Hides the Stop Button */
+.hidden{
+  display: none;
+}
+/* BUTTON 1 Styling */
+#button1{
+  background: lightgreen;
+}
+#button1:active, #button1.lit{
+  background: green;
+}
+/* BUTTON 2 Styling */
+#button2{
+  background: lightred;
+}
+#button2:active, #button2.lit{
+  background: red;
+}
+/* BUTTON 3 Styling */
+#button3{
+  background: lightblue;
+}
+#button3:active, #button3.lit{
+  background: blue;
+}
+/* BUTTON 4 Styling */
+#button4{
+  background: lightyellow;
+}
+#button4:active,#button4.lit{
+  background: yellow;
+}
