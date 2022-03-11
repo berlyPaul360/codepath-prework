@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](https://recordit.co/DCBl6xfhlh)
+![x]https://recordit.co/DCBl6xfhlh
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -70,12 +70,12 @@ play sequence. I'd add a score keeper section or some type of motivational messa
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](C:\Users\cartm\OneDrive\Documents\zoom\2022-03-11 14.11.35 berly paul's personal meeting room)
+[My 5-minute Interview Recording] C:\Users\cartm\OneDrive\Documents\zoom\2022-03-11 14.11.35 berly paul's personal meeting room
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Berly Paul
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
